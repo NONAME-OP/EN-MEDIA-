@@ -12,7 +12,7 @@ A lightweight full-stack web application featuring a modern frontend powered by 
 ## 🚀 Features
 
 - Responsive frontend with modern development tools (via npm)
-- PHP backend for handling forms, APIs, and business logic
+- mongodb backend for handling forms
 - Easy local development with hot reload (`npm run dev`)
 - Compatible with MySQL for data storage (optional)
 
@@ -42,7 +42,6 @@ A lightweight full-stack web application featuring a modern frontend powered by 
 
 ### 🔧 Prerequisites
 - Node.js & npm
-- PHP (XAMPP, WAMP, etc.)
 
 ### 🛠 Steps
 
@@ -59,6 +58,7 @@ A lightweight full-stack web application featuring a modern frontend powered by 
    ```bash
    npm run dev
    ```
+vite react and interactive ui as a responsive application
 
 4. Make sure your database running server is running for the backend.
 
