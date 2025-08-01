@@ -1,86 +1,28 @@
-Got it! If your project uses **npm** (for frontend tooling like Vite, Webpack, or a JS framework), and the backend is still in PHP, here's an updated version of the `README.md` that includes **`npm install`** and **`npm run dev`** setup instructions.
+# 🎥 EN‑MEDIA
+
+A modern full-stack media application with a reactive frontend, PHP backend, and MongoDB storage. Perfect for managing, previewing, and sharing media content.
 
 ---
 
-```markdown
-# 🔗 Full Stack Web App (Frontend with npm + PHP Backend)
+## 🧪 Features
 
-A lightweight full-stack web application featuring a modern frontend powered by npm tooling and a PHP backend. Perfect for learning, prototyping, or small web utilities.
-
----
-
-## 🚀 Features
-
-- Responsive frontend with modern development tools (via npm)
-- mongodb backend for handling forms
-- Easy local development with hot reload (`npm run dev`)
-- Compatible with MySQL for data storage (optional)
+- Dynamic frontend using HTML, CSS & JavaScript (npm-based tooling)
+- Backend with PHP and MongoDB integration for media metadata and content
+- Fast hot‑reload development workflow (`npm run dev`)
+- REST-like API endpoints for data submission and retrieval
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technology Stack
 
-- **Frontend**: HTML, CSS, JavaScript (with Vite/Webpack)
-- **Backend**: mongodb
-- **Build Tools**: Node.js, npm
-- **Optional**: MySQL, phpMyAdmin
+| Layer       | Stack                      |
+|-------------|-----------------------------|
+| Frontend    | npm + (Vite / Webpack / Vanilla JS) |
+| Backend     | PHP 7+ with MongoDB PHP extension |
+| Database    | MongoDB (local or Atlas)     |
+| Dev Tools   | Node.js, npm                 |
 
 ---
 
 ## 📁 Project Structure
 
-```
-
-
-├── README.md
-
-````
-
----
-
-## ⚙️ Installation
-
-### 🔧 Prerequisites
-- Node.js & npm
-
-### 🛠 Steps
-
-````
-
-2. Install frontend dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-vite react and interactive ui as a responsive application
-
-4. Make sure your database running server is running for the backend.
-
----
-
-## 🌐 Accessing the App
-
-* Frontend: `http://localhost:5173` (or shown port)
-
----
-
-
-
-> 💡 Contributions and suggestions welcome!
-
-```
-add env file
----
-
-Let me know:
-- Which frontend tool you're using (`Vite`, `Webpack`, `Parcel`, etc.)
-- If the frontend and backend are served together or separately
-
-I can fine-tune the config and proxy settings if needed.
-```
