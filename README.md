@@ -15,7 +15,6 @@ A modern full-stack media application with a reactive frontend, PHP backend, and
 - REST-like API endpoints for data submission and retrieval
 
 ---
-
 ## 🛠 Technology Stack
 
 | Layer       | Stack                      |
@@ -73,8 +72,7 @@ npm run dev
 
 # 5. Configure MongoDB connection in `backend/connect.php`
 ````
-
----
+--
 
 ## 🚀 Running the App
 
@@ -128,3 +126,4 @@ See `LICENSE` file for details.
 Let me know if EN‑MEDIA uses a specific framework (e.g., React with Vite) or has unique features—happy to fine‑tune further!
 ::contentReference[oaicite:11]{index=11}
 ```
+
