@@ -14,7 +14,7 @@ A modern full-stack media application with a reactive frontend, PHP backend, and
 - Fast hot‑reload development workflow (`npm run dev`)
 - REST-like API endpoints for data submission and retrieval
 
----
+---------
 ## 🛠 Technology Stack
 
 | Layer       | Stack                      |
@@ -126,4 +126,5 @@ See `LICENSE` file for details.
 Let me know if EN‑MEDIA uses a specific framework (e.g., React with Vite) or has unique features—happy to fine‑tune further!
 ::contentReference[oaicite:11]{index=11}
 ```
+
 
