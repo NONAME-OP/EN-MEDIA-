@@ -117,7 +117,7 @@ See `LICENSE` file for details.
 ---
 
 ### 🔧 Customization Tips:
-
+....
 - Adjust npm scripts or proxy config if your frontend needs to call PHP endpoints.
 - Include badges (like build status, license, contributors) near the top.
 - Add a Table of Contents for longer READMEs (GitHub automatically links headers) :contentReference[oaicite:9]{index=9}.
@@ -126,5 +126,6 @@ See `LICENSE` file for details.
 Let me know if EN‑MEDIA uses a specific framework (e.g., React with Vite) or has unique features—happy to fine‑tune further!
 ::contentReference[oaicite:11]{index=11}
 ```
+
 
 
